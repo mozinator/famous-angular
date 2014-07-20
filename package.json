@@ -13,7 +13,7 @@
   },
   "scripts": {
     "install": "bower install",
-    "postinstall": "git submodule update --init --recursive",
+    "postinstall": "",
     "start": "gulp dev",
     "test": "karma start --single-run"
   },
